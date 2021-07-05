@@ -5,15 +5,143 @@ This project required to build a model that predicts the total ride duration of 
 \\In this section, The train data which we have 1458644 Rows and 11 columns. The test data which we have 625134 Rows and 9 columns.
 \\We built the linearregression model, using distance to predict the trip duration and test.
 
-\section{Process} 
+\section{Data ETL} 
 
-There are steps as fellows:
-\\Step 1, Data ETL, inclouding read data, cleaning data, recheck NAs and decrible data types.
-\\Step 2, Knowledge Discovery, Calculate the distance by latitude and longitude. Distribution distance and trip duration, and then visualization then, in order to find the characteristics about distance and trip duration, prepare for select featuers.
-\\Step 3, Model Built and Prediction, set distance and trip duration as attribuates. In this section we first to prepare data, which including Select features and gropby data to train data and test data, from 0 to 150 as train data, 150 to 180 as test data, named as train and test.
-\\And then, Built LinearRegresion Model and find best parameter to predict, we use distance to predict the trip duration and test. The result presents that the LinearRegression RMSLE is  4.616529350404572. 
-\\Last step which is visualization the prediction result.
+\begin{itemize}
+	\item
+	%\emph{New York City Taxi Trip Duration Prediction}
+     Read train data and test data from csv files.
+	
+\end{itemize} 
 
+
+%%%%%%%%%% -------------------------------------------------------------------- %%%%%%%%%%
+{
+	\begin{itemize}
+		\item
+		%\emph{New York City Taxi Trip Duration Prediction}
+		 After we read, clearn the data and check NAs, The train data which we have 1458644 Rows and 11 columns. The test data which we have 625134 Rows and 9 columns.We built the linearregression model, using distance to predict the trip duration and test.
+		
+		\item
+		Data Types
+	\end{itemize} 
+	
+	\bigskip 
+	\begin{tabular}{ l | l }
+		\toprule
+		Attribute     &  Description          \\
+		\midrule
+		vendor id               & a code indicating the provider associated with the trip record\\
+		pickup datetime      &  date and time when the meter was engaged  \\
+		dropoff datetime     &  date and time when the meter was disengaged  \\
+		pickup longitude     &  the longitude where the meter was engaged\\ 
+		pickup latitude        &  the latitude where the meter was engaged\\ 
+		dropoff longitude    & the longitude where the meter was disengaged\\ 
+		dropoff latitude       & the latitude where the meter was disengaged\\ 
+		store and fwd flag   &  Y=store and forward; N=not a store and forward trip\\
+		trip duration           & duration of the trip in seconds\\
+		
+		\bottomrule
+	\end{tabular}	
+	
+}
+%%%%%%%%%% -------------------------------------------------------------------- %%%%%%%%%%
+
+
+
+%%%%%%%%%% -------------------------------------------------------------------- %%%%%%%%%%
+\section{Knowledge Discovery} 
+Visualise Data:
+
+\begin{itemize}
+\item
+Distance characteristic analysis
+\item
+Distance characteristic analysis
+\end{itemize} 
+
+%%%%%%%%%% -------------------------------------------------------------------- %%%%%%%%%%
+{
+	\vspace{0.5cm} 
+	\begin{flushleft}
+		\centering
+		\selectcolormodel{rgb}
+		%  \missingfigure{Testing a long text string.}
+		\includegraphics[width=0.5\textwidth]{figures//pe7.eps}\\
+		%  \caption{The amount rented at different times of the day} \label{framework}
+	\end{flushleft}
+	
+	\begin{flushleft}
+		\centering
+		\selectcolormodel{rgb}
+		%  \missingfigure{Testing a long text string.}
+		\includegraphics[width=0.5\textwidth]{figures//pe8.eps}\\
+		%  \caption{The amount rented at different times of the day} \label{framework}
+	\end{flushleft}
+}
+%%%%%%%%%% -------------------------------------------------------------------- %%%%%%%%%%
+
+\section{Select features and gropby data} 
+{
+	\begin{description}
+		\item
+		Select ’trip duration’ and ’distance’ as features, groupby data to train data and test
+		data in the train dataframe, set 0 to 150 as train data, 150 to 180 as test data,
+		named as train and test
+	\end{description}
+	\vspace{-0.8cm}
+	\begin{flushleft}
+		\centering
+		\selectcolormodel{rgb}
+		%  \missingfigure{Testing a long text string.}
+		\includegraphics[width=0.7\textwidth]{figures//pe13.eps}\\
+		%\caption{Correlation rank} \label{framework}
+	\end{flushleft}
+	
+}
+%%%%%%%%%% -------------------------------------------------------------------- %%%%%%%%%%
+
+
+%%%%%%%%%% -------------------------------------------------------------------- %%%%%%%%%%
+\section{Built Modeling and Predict Result}
+{
+	\begin{description}
+		\item[Model:] LinearRegression Model
+		
+	\end{description}
+	\vspace{.5cm}
+	\begin{description}
+		\item[RSMLE:] 4.616529350404572
+		
+	\end{description}
+	
+}
+%%%%%%%%%% -------------------------------------------------------------------- %%%%%%%%%%
+
+
+
+
+%%%%%%%%%% -------------------------------------------------------------------- %%%%%%%%%%
+\section{Visualize Predict Result}
+
+%%%%%%%%%% -------------------------------------------------------------------- %%%%%%%%%%
+
+{
+	\begin{itemize}
+		\item
+		Trip Duration Visualize Predict Result
+	\end{itemize} 
+	\vspace{0.5cm} 
+	\begin{flushleft}
+		\centering
+		\selectcolormodel{rgb}
+		%  \missingfigure{Testing a long text string.}
+		\includegraphics[width=0.7\textwidth]{figures//pe15.eps}\\
+		%  \caption{The amount rented at different times of the day} \label{framework}
+	\end{flushleft}
+	
+}
+%%%%%%%%%% -------------------------------------------------------------------- %%%%%%%%%%
 
 \section{Conclusions} \label{sec-conclusions}
 
