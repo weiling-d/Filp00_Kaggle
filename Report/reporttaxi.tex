@@ -1,0 +1,54 @@
+\documentclass{amsart}
+\synctex=1
+
+%=================================================================
+% 
+\newcount\DraftStatus  % 0 suppresses notes to selves in text
+\DraftStatus=1   % TODO: set to 0 for final version
+%=================================================================
+
+%=================================================================
+\usepackage{comment}
+%=================================================================
+%
+\includecomment{JournalOnly}  
+\includecomment{ConferenceOnly}  
+\includecomment{TulipStyle}
+%
+%=================================================================
+\input{preamble}
+
+
+%=================================================================
+%
+\begin{document}
+%
+%=================================================================
+%
+\title[NYC Taxi Trip Duration Prediction]{New York City Taxi Trip Duration Prediction}%
+
+\author{Weiling Deng}
+\address[A.~1]{Business School,\\ 
+Deakin University, Burwood 3125, Australia}%
+\email[A.~1]{ddengpp@gmail.com}
+
+%\thanks{Thanks to \ldots}%
+\subjclass{Artificial Intelligence}%
+\date{\gitAuthorDate}%
+
+\input{abstract}
+
+
+\maketitle
+\tableofcontents
+
+\newpage
+%=================================================================
+
+\input{mainbody}
+
+
+
+
+\end{document}
+
