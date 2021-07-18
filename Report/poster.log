@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6.28) (preloaded format=pdflatex 2021.7.3)  18 JUL 2021 15:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6.28) (preloaded format=pdflatex 2021.7.3)  18 JUL 2021 15:52
 entering extended mode
 **C:/Users/ddeng/Documents/GitHub/flip00/Report/poster.tex
 (C:/Users/ddeng/Documents/GitHub/flip00/Report/poster.tex
@@ -1440,7 +1440,7 @@ Package epstopdf Info: Source file: <figures//pe7.eps>
 (epstopdf)             Output file: <figures//pe7-eps-converted-to.pdf>
 (epstopdf)             Command: <miktex-epstopdf --outfile=figures//pe7-eps-con
 verted-to.pdf figures//pe7.eps>
-(epstopdf)             \includegraphics on input line 165.
+(epstopdf)             \includegraphics on input line 164.
 runsystem(miktex-epstopdf --outfile=figures//pe7-eps-converted-to.pdf figures//
 pe7.eps)...executed (allowed).
 
@@ -1453,11 +1453,11 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.165 }
+l.164 }
        
 ? 
 LaTeX Font Info:    Trying to load font information for T1+cmtl on input line 1
-65.
+64.
 (C:\Users\ddeng\AppData\Local\Programs\MiKTeX00\tex/latex/cmbright\t1cmtl.fd
 File: t1cmtl.fd 2005/04/13 v8.1 (WaS)
 )
@@ -1467,7 +1467,7 @@ Package epstopdf Info: Source file: <figures//pe9.eps>
 (epstopdf)             Output file: <figures//pe9-eps-converted-to.pdf>
 (epstopdf)             Command: <miktex-epstopdf --outfile=figures//pe9-eps-con
 verted-to.pdf figures//pe9.eps>
-(epstopdf)             \includegraphics on input line 185.
+(epstopdf)             \includegraphics on input line 184.
 runsystem(miktex-epstopdf --outfile=figures//pe9-eps-converted-to.pdf figures//
 pe9.eps)...executed (allowed).
 
@@ -1481,7 +1481,7 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.185 }
+l.184 }
        
 ? 
 Package epstopdf Info: Source file: <figures//pe15.eps>
@@ -1490,7 +1490,7 @@ Package epstopdf Info: Source file: <figures//pe15.eps>
 (epstopdf)             Output file: <figures//pe15-eps-converted-to.pdf>
 (epstopdf)             Command: <miktex-epstopdf --outfile=figures//pe15-eps-co
 nverted-to.pdf figures//pe15.eps>
-(epstopdf)             \includegraphics on input line 206.
+(epstopdf)             \includegraphics on input line 205.
 runsystem(miktex-epstopdf --outfile=figures//pe15-eps-converted-to.pdf figures/
 /pe15.eps)...executed (allowed).
 
@@ -1503,7 +1503,7 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.206 }
+l.205 }
        
 ? 
 Package epstopdf Info: Source file: <figures//pe13.eps>
@@ -1512,7 +1512,7 @@ Package epstopdf Info: Source file: <figures//pe13.eps>
 (epstopdf)             Output file: <figures//pe13-eps-converted-to.pdf>
 (epstopdf)             Command: <miktex-epstopdf --outfile=figures//pe13-eps-co
 nverted-to.pdf figures//pe13.eps>
-(epstopdf)             \includegraphics on input line 225.
+(epstopdf)             \includegraphics on input line 224.
 runsystem(miktex-epstopdf --outfile=figures//pe13-eps-converted-to.pdf figures/
 /pe13.eps)...executed (allowed).
 
@@ -1525,11 +1525,11 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.225 }
+l.224 }
        
 ? 
 
-Overfull \hbox (117.856pt too wide) in paragraph at lines 225--225
+Overfull \hbox (117.856pt too wide) in paragraph at lines 224--224
  [] 
  []
 
@@ -1540,7 +1540,7 @@ Package epstopdf Info: Source file: <logos/tulip-wordmark.eps>
 
 (epstopdf)             Command: <miktex-epstopdf --outfile=logos/tulip-wordmark
 -eps-converted-to.pdf logos/tulip-wordmark.eps>
-(epstopdf)             \includegraphics on input line 297.
+(epstopdf)             \includegraphics on input line 296.
 runsystem(miktex-epstopdf --outfile=logos/tulip-wordmark-eps-converted-to.pdf l
 ogos/tulip-wordmark.eps)...executed (allowed).
 
@@ -1554,16 +1554,16 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.297 }
+l.296 }
        
 ? 
 
-Overfull \hbox (0.53442pt too wide) in paragraph at lines 297--297
+Overfull \hbox (0.53442pt too wide) in paragraph at lines 296--296
  [][] 
  []
 
 
-Overfull \hbox (5.52335pt too wide) in paragraph at lines 297--297
+Overfull \hbox (5.52335pt too wide) in paragraph at lines 296--296
 []$[]$ $[]$ 
  []
 
