@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6.28) (preloaded format=latex 2021.7.3)  5 JUL 2021 18:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=latex 2021.7.18)  18 JUL 2021 16:56
 entering extended mode
 **./report.tex
 (report.tex
 LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-06-18>
+L3 programming layer <2021-07-12>
 (C:\Users\ddeng\AppData\Local\Programs\MiKTeX00\tex/latex/amscls\amsart.cls
 Document Class: amsart 2020/05/29 v2.20.6
 \linespacing=\dimen138
@@ -528,11 +528,11 @@ Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 )
 (C:\Users\ddeng\AppData\Local\Programs\MiKTeX00\tex/latex/breqn\breqn.sty
 (C:\Users\ddeng\AppData\Local\Programs\MiKTeX00\tex/latex/l3kernel\expl3.sty
-Package: expl3 2021-06-18 L3 programming layer (loader) 
+Package: expl3 2021-07-12 L3 programming layer (loader) 
 
 (C:\Users\ddeng\AppData\Local\Programs\MiKTeX00\tex/latex/l3backend\l3backend-d
 vips.def
-File: l3backend-dvips.def 2021-05-07 L3 backend support: dvips
+File: l3backend-dvips.def 2021-07-12 L3 backend support: dvips
 \l__pdf_internal_box=\box66
 \g__pdf_backend_object_int=\count303
 \l__pdf_backend_content_box=\box67
@@ -949,7 +949,7 @@ fg
 File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
 ))
 (C:\Users\ddeng\AppData\Local\Programs\MiKTeX00\tex/latex/siunitx\siunitx.sty
-Package: siunitx 2021-06-29 v3.0.17 A comprehensive (SI) units package
+Package: siunitx 2021-07-06 v3.0.19 A comprehensive (SI) units package
 \l__siunitx_angle_tmp_dim=\dimen313
 \l__siunitx_angle_marker_box=\box79
 \l__siunitx_angle_unit_box=\box80
@@ -1473,10 +1473,10 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 129124FE3CBEABF63C42ABE0FEAE78CC;1153.
  ) 
 Here is how much of TeX's memory you used:
- 36856 strings out of 478848
- 739732 string characters out of 2847471
- 1200258 words of memory out of 3000000
- 53982 multiletter control sequences out of 15000+600000
+ 36860 strings out of 478871
+ 739795 string characters out of 2847920
+ 1198015 words of memory out of 3000000
+ 53961 multiletter control sequences out of 15000+600000
  410012 words of font info for 53 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  122i,12n,134p,441b,894s stack positions out of 5000i,500n,10000p,200000b,80000s
