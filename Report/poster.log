@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6.28) (preloaded format=pdflatex 2021.7.3)  18 JUL 2021 15:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.7.19)  19 JUL 2021 21:53
 entering extended mode
 **C:/Users/ddeng/Documents/GitHub/flip00/Report/poster.tex
 (C:/Users/ddeng/Documents/GitHub/flip00/Report/poster.tex
 LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-06-18>
+L3 programming layer <2021-07-12>
 (C:\Users\ddeng\AppData\Local\Programs\MiKTeX00\tex/latex/tikzposter\tikzposter
 .cls
 Document Class: tikzposter 2014/01/15 v2.0 LaTeX document class for Posters
@@ -718,11 +718,11 @@ Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 (C:\Users\ddeng\AppData\Local\Programs\MiKTeX00\tex/latex/l3packages/xparse\xpa
 rse.sty
 (C:\Users\ddeng\AppData\Local\Programs\MiKTeX00\tex/latex/l3kernel\expl3.sty
-Package: expl3 2021-06-18 L3 programming layer (loader) 
+Package: expl3 2021-07-12 L3 programming layer (loader) 
 
 (C:\Users\ddeng\AppData\Local\Programs\MiKTeX00\tex/latex/l3backend\l3backend-p
 dftex.def
-File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2021-07-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count290
 \l__pdf_internal_box=\box94
 ))
@@ -1574,10 +1574,10 @@ Package rerunfilecheck Info: File `poster.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 27774 strings out of 478847
- 555825 string characters out of 2847445
- 1091489 words of memory out of 3000000
- 45120 multiletter control sequences out of 15000+600000
+ 27774 strings out of 478870
+ 555825 string characters out of 2847894
+ 1088662 words of memory out of 3000000
+ 45095 multiletter control sequences out of 15000+600000
  477794 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,10n,122p,560b,1525s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1587,15 +1587,13 @@ rm-kurier.enc} <C:\Users\ddeng\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cmbr
 ight/dpi1493\ebtl10.pk> <C:\Users\ddeng\AppData\Local\MiKTeX\fonts/pk/ljfour/pu
 blic/cmbright/dpi1792\ebtl10.pk>{C:/Users/ddeng/AppData/Local/Programs/MiKTeX00
 /fonts/enc/dvips/kurier/ts1-kurier.enc}{C:/Users/ddeng/AppData/Local/Programs/M
-iKTeX00/fonts/enc/dvips/kurier/ec-kurier-sc.enc}{C:/Users/ddeng/AppData/Local/P
-rograms/MiKTeX00/fonts/enc/dvips/kurier/ec-kurier.enc}<C:/Users/ddeng/AppData/L
-ocal/Programs/MiKTeX00/fonts/type1/nowacki/kurier/kurierb.pfb><C:/Users/ddeng/A
-ppData/Local/Programs/MiKTeX00/fonts/type1/nowacki/kurier/kurierr.pfb><C:/Users
-/ddeng/AppData/Local/Programs/MiKTeX00/fonts/type1/nowacki/kurier/kurierri.pfb>
-
-Output written on poster.pdf (1 page, 114314 bytes).
+iKTeX00/fonts/enc/dvips/kurier/ec-kurier.enc}<C:/Users/ddeng/AppData/Local/Prog
+rams/MiKTeX00/fonts/type1/nowacki/kurier/kurierb.pfb><C:/Users/ddeng/AppData/Lo
+cal/Programs/MiKTeX00/fonts/type1/nowacki/kurier/kurierr.pfb><C:/Users/ddeng/Ap
+pData/Local/Programs/MiKTeX00/fonts/type1/nowacki/kurier/kurierri.pfb>
+Output written on poster.pdf (1 page, 111230 bytes).
 PDF statistics:
- 142 PDF objects out of 1000 (max. 8388607)
+ 138 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
  151 words of extra memory for PDF output out of 10000 (max. 10000000)
 
